@@ -1,5 +1,5 @@
 # =================================================================
-# PREGUNTA 2: Probabilidad, normalidad e IC, prueba t, ANOVA/Kruskal-Wallis
+# Probabilidad, normalidad e IC, prueba t, ANOVA/Kruskal-Wallis
 # =================================================================
 
 setwd("C:/EXAMEN")

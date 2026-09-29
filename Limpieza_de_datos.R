@@ -1,5 +1,5 @@
 # =================================================================
-# PREGUNTA 1: Limpieza de datos + descriptivos univariados y bivariados
+# Limpieza de datos + descriptivos univariados y bivariados
 # =================================================================
 
 setwd("C:/EXAMEN")

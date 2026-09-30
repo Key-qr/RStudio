@@ -11,7 +11,7 @@ de datos, estadística descriptiva, probabilidad, pruebas de hipótesis y ANOVA.
 | `Probabilidades_pruebas_y_ANOVA.R` | Probabilidad binomial/hipergeométrica, pruebas de normalidad, prueba t de una muestra, ANOVA con Tukey y Kruskal-Wallis |
 | `matriz_dispersion_pairs.R` | Matriz de dispersión (pairs) entre variables numéricas, coloreada por variable de impago |
 
-## Técnicas aplicadas
+## Técnicas
 
 - Imputación de datos faltantes según el tipo y asimetría de cada variable
 - Estadística descriptiva univariada y bivariada
